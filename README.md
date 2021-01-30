@@ -8,14 +8,20 @@ In this pandemic moment when many people have lost their jobs and need to qualif
 
 ###### Home Page
 ![Home](./client/src/img/home.png)
+========================
 ###### Sign up Page
 ![Signup](./client/src/img/sign_page.png)
+========================
 ###### List of all Request Page
 After successful login, the user is presented with a list of all requests. 
 ![List](./client/src/img/list_request_1.png)
+========================
+List of all desire members
 ![List-2](./client/src/img/list_request.png)
+========================
 ###### Add Post Page
 ![Post](./client/src/img/post_page.png)
+========================
 ###### Team Page
 ![Post](./client/src/img/team.png)
 
