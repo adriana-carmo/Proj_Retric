@@ -16,7 +16,7 @@ In this pandemic moment when many people have lost their jobs and need to qualif
 After successful login, the user is presented with a list of all requests. 
 ![List](./client/src/img/list_request_1.png)
 ========================
-List of all desire members
+All requests listed for members 
 ![List-2](./client/src/img/list_request.png)
 ========================
 ###### Add Post Page
